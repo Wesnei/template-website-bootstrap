@@ -1,13 +1,12 @@
 .carousel-item img {
-    height: 600px;
-    object-fit: cover;
+  height: 600px;
+  object-fit: cover;
 }
 
-.card{
-    transition: transform 0.3s ease;
+.card {
+  transition: transform 0.3s ease;
 }
 
-.card:hover{
-    transform: scale(1.1);
-
+.card:hover {
+  transform: scale(1.1);
 }
